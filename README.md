@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Egorech
 - 👀 I’m interested in ds
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on
 - 📫 How to reach me https://vk.com/id323062926
 
 <!---
